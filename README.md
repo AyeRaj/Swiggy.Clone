@@ -2,4 +2,4 @@
 
 # <p align="center">Project Preview</p>
 `Home Page`
-![HomePage](./Screenshot%20(190).png)
+![HomePage](./images/Screenshot%20(190).png)
